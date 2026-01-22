@@ -1,3 +1,6 @@
+/* Copyright (c) 1986-2026 Robert W. Berger N3EMO
+   May be freely distributed, provided this notice remains intact. */
+
 Bob Berger's Orbital Prediction Program, ever so slightly tweaked to use modern C.
 
 Also includes his "nasa2kep.c" program to convert 2-line NASA elements (e.g. of the type distributed by the ARRL / AMSAT) into a more human-readable 'kepler.dat' file that the orbit program reads directly.
